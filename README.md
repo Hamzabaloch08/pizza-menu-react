@@ -17,8 +17,10 @@ A responsive React app displaying a pizza menu with Tailwind CSS. Includes quant
 ## 📦 Getting Started
 
 1. Clone the repo:
-   ```bash
+
+```bash
    git clone https://github.com/Hamzabaloch/pizza-menu-react
+```
 
 ```bash
    cd pizza-menu-react
@@ -30,5 +32,3 @@ A responsive React app displaying a pizza menu with Tailwind CSS. Includes quant
 
 ```bash
 npm run dev
-
-
