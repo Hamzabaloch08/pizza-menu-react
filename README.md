@@ -27,8 +27,8 @@ A responsive React app displaying a pizza menu with Tailwind CSS. Includes quant
 ```
 
 ```bash
-  npm install
+   npm install
 ```
 
 ```bash
-npm run dev
+   npm run dev
